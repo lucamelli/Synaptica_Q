@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Synaptica Q — Quantum Coherence Index (QCI)"
+message: "If you use this software, please cite it as below."
+author: Luca Melli
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/lucamelli/Synaptica_Q"
+version: "0.1.0"
+date-released: "2025-10-16"
